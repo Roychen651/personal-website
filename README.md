@@ -9,10 +9,10 @@
 
 ## About Me
 👨🏽‍💻 Roy Chen,
-Third year Computer Science students at H.I.T.,
-I really like Python,Web devloping and design things.
-I have a passion for experimenting with new things and interesting technologies.
-This is my final project in the CSS and Html section in the Full Stack course that I learnt in Udemy.
+Third year Computer Science students at H.I.T<br/>
+I really like Python,Web devloping and design things.<br/>
+I have a passion for experimenting with new things and interesting technologies.<br/>
+This is my final project in the CSS and Html section in the Full Stack course that I learnt in Udemy.<br/>
 
 
 ## Tools and Features<br/>
