@@ -1,6 +1,6 @@
 # 🌟 Bootstrap Website with HTML and CSS 🌟
 
-Welcome to my latest project - a stunning website crafted with Bootstrap, HTML, and CSS! 🚀 This project serves as a showcase of my front-end development prowess, demonstrating my ability to create captivating and responsive web pages using the power of Bootstrap.
+Welcome to my latest project - a stunning website crafted with Bootstrap,<br/> HTML, and CSS! 🚀 This project serves as a showcase of my front-end development prowess,<br/> demonstrating my ability to create captivating and responsive web pages using the power of Bootstrap.<br/>
 
 ## ✨ Key Features:
 
@@ -14,3 +14,7 @@ Welcome to my latest project - a stunning website crafted with Bootstrap, HTML, 
 1. **Clone the Repository**: Get started by cloning the repository to your local machine using the provided Git URL.
    ```bash
    git clone https://github.com/your-username/bootstrap-website.git
+
+ ##📝 License:
+
+This project is licensed under the MIT License, granting you the freedom to use and modify the code as you see fit.
